@@ -47,5 +47,6 @@
   "bugs": {
     "url": "https://github.com/matheuskerpen/npm-public-package/issues"
   },
-  "homepage": "https://github.com/matheuskerpen/npm-public-package#readme"
+  "homepage": "https://github.com/matheuskerpen/npm-public-package#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
